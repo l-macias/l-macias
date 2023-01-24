@@ -72,5 +72,5 @@
 <div  align="center">
 
 <p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=l-macias&theme=dark"  alt="lucas-macias"  /></p>
-
+![](https://komarev.com/ghpvc/?username=l-macias&color=blue)
 </div>
