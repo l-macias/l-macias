@@ -68,7 +68,7 @@
 </tr>
 
 </table>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=l-macias.visitor-badge&left_color=red&right_color=green&left_text=Visitas)
+<p align = "center"> <img align="center" src="https://profile-counter.glitch.me/l-macias/count.svg" /></p>
 
 <div  align="center">
 
