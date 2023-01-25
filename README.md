@@ -1,5 +1,5 @@
 <h1  align="center">👋 Hi, I'm <a  href="https://www.linkedin.com/in/l-macias"  target="_blank"> Lucas Macias </a></h1>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+
 <h3  align="center">  <img  src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=2000&color=0000FF&width=435&lines=Full+Stack+Developer+Jr+(MERN)"  alt="Typing SVG"  />  </h3>
 
 - 💼 Check out my Portfolio : **<a href="https://https://github.com/l-macias?tab=repositories"  target="_blank">Portfolio</a>**
