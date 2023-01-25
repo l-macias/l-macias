@@ -68,7 +68,7 @@
 </tr>
 
 </table>
-<p align = "center"> <img align="center" src="https://profile-counter.glitch.me/l-macias/count.svg" /></p>
+
 
 <div  align="center">
 
@@ -78,4 +78,5 @@
 
 
 </div>
+<p align = "center"> <img align="center" src="https://profile-counter.glitch.me/l-macias/count.svg" /></p>
 
