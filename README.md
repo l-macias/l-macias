@@ -1,6 +1,6 @@
 <h1  align="center">👋 Hi, I'm <a  href="https://www.linkedin.com/in/l-macias"  target="_blank"> Lucas Macias </a></h1>
 
-<h3  align="center">  <img  src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=2000&color=0000FF&width=435&lines=Full+Stack+Developer+Jr+(MERN)"  alt="Typing SVG"  />  </h3>
+<h3  align="center">  <img  src="https://readme-typing-svg.herokuapp.com?font=VT323&size=28&pause=2000&color=0000FF&width=435&lines=Backend+Developer"  alt="Typing SVG"  />  </h3>
 
 - 💼 Check out my Portfolio : **<a href="https://https://github.com/l-macias?tab=repositories"  target="_blank">Portfolio</a>**
 
@@ -31,6 +31,7 @@
 
 <img  alt="sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
+<img  alt="React"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <br>
 
 <h4  align="left">BACKEND:</h4>
@@ -38,8 +39,6 @@
 <img  alt="NodeJS"  src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 
 <img  alt="ExpressJS"  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img  alt="React"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <img  alt="MongoDB"  src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
